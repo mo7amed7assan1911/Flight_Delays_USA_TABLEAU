@@ -18,6 +18,8 @@
 ## Using _Tableau_to Analyse the dataset.
 > **You can visit the interactive story from [here](https://public.tableau.com/app/profile/mohamed.hassan6400/viz/2015FlightDelaysandCancellationsinUSA-DataAnalysis/2015FlightDelaysandCancellationsinUSA-DataAnalysisStory?publish=yes).**
 
+> I preferred to use **gradient blue** in most of my visualization as it is the color of the sky and it is compatible with the flights we talk about in this project.
+
 
 ### It is consists of 4 slides:
 ### Slide 1
@@ -26,12 +28,16 @@
 > * Atlanta by 17,833 times.
 > * Dallas-Fort Worth by 12,331 times.
 
+![image](https://user-images.githubusercontent.com/55090589/186673146-6018a5e1-a5d3-4839-baa9-96deca82cb29.png)
+
 ### Slide 2
 > It is just a bigger view for the last slide .. as it shows how often each state was chosen as a destination and we can see that the most 2 states were chosen are:
 > * CA by 33,331 times.
 > * TX by 32,612 times.
 
 > Notice: Hovering on each state will show you the entire cities on this state.
+
+![image](https://user-images.githubusercontent.com/55090589/186673281-c3d2602f-4184-49a2-adbf-407b22d86d02.png)
 
 ### Slide 3
 > It is a **dashboard** showin informations about the flights cancellation and consists of 3 worksheets:
@@ -48,6 +54,8 @@
 >      * This shows that for all months `VT` state has cancellation rate **4.61% for each flight.**
 >      * **Notice: Hovering on each state will show you the entire cities on this state.**
 
+![image](https://user-images.githubusercontent.com/55090589/186673426-30ef6061-bed5-4b3d-8ac1-e21b4aeaf761.png)
+
 ### Slide 4 
 > It is a visualization showing the quality of airlines.
 > * Based on the Delay rate which calculated from the rate of arrival delay and departure delay compined.
@@ -56,3 +64,5 @@
 >   * **Hawaiian Airlines Inc by 198.68%** delay rate for each flight.
 >   * **Delta Airlines Inc by 802.85%** delay rate for each flight.
 >  * And the worest airline was Spirit Airlines Inc by 3246.99% delay rate for each flight.
+>  * 
+![image](https://user-images.githubusercontent.com/55090589/186673558-a6bae193-db3b-488c-ba17-708e073de2aa.png)
