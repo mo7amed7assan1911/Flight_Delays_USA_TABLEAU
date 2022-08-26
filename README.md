@@ -32,9 +32,9 @@
 > * **Atlanta** by **17,833** times.
 > * **Dallas-Fort Worth** by **12,331** times.
 
-> Design Choices:
-> * A **bar chart** is the best suited here, as I had to plot the number of times each city had been chosen over 2015 which involves a comparison among items.
-> * I used **blue color** which is warm for the eyes and compatible with flight insights.
+>  ***Design Choices:***
+>   * A **bar chart** is the best suited here, as I had to plot the number of times each city had been chosen over 2015 which involves a comparison among items.
+>   * I used **blue color** which is warm for the eyes and compatible with flight insights.
 
 ### Slide 2
 ![image](https://user-images.githubusercontent.com/55090589/186915868-df5d4f74-2650-4ff2-9d25-9afb96feabbf.png)
@@ -44,9 +44,9 @@
 > * **CA** by **33,331** times.
 > * **TX** by **32,612** times.
 
-> Design Choices:
-> * A map is the best suitable here as I had to plot the states with their number of times chosen to be a destination. So, I used maps as it is geographical data.
-> * I used **sequential blue color**, the darker the color is, the bigger the number of times this state is chosen.
+>  ***Design Choices:***
+>   * A map is the best suitable here as I had to plot the states with their number of times chosen to be a destination. So, I used maps as it is geographical data.
+>   * I used **sequential blue color**, the darker the color is, the bigger the number of times this state is chosen.
 
 > **Notice: Hovering on each state will show you the entire cities on this state.**
 
@@ -69,11 +69,11 @@
 >       * **Weather** canceled **2,397 flights.**
 >       * **Airline/Carrier** canceled **1,260 flights.**
 >       * **National Air System** canceled **776 flights.**
-> 	 * ***Design Choices:***
+> 	  * ***Design Choices:***
 > 		  * **Bubble chart** is the best suitable here as I had to plot the relationship between the number of cancellations and each reason in a specific month the user chose. The bigger the size of the bubble, the bigger the number of cancellations based on it.
 > 		  * I used **sequential blue color**, to the 3 bubbles that I see will be quiet for the reader’s eyes.
 > 
->   1. **Cancellation rate for each state:**
+>   3. **Cancellation rate for each state:**
 >      * This shows that for all months of filtration, **VT** state has the highest cancellation rate of **4.61%** for each flight.
 
 >  * **Notice: Hovering on each state will show you the entire cities in this state.**
