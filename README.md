@@ -68,5 +68,5 @@
 >   * **Delta Airlines Inc by 802.85%** delay rate for each flight.
 >  * And the worst airline was Spirit Airlines Inc with a 3246.99% delay rate for each flight.
 
-![image](https://user-images.githubusercontent.com/55090589/186673558-a6bae193-db3b-488c-ba17-708e073de2aa.png)
+![image](https://user-images.githubusercontent.com/55090589/186822251-2bd25245-3eea-4349-96cf-9c2772ed3c13.png)
 
