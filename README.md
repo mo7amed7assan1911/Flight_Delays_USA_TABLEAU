@@ -2,7 +2,7 @@
 
 > You can find the original data [here](https://www.kaggle.com/datasets/usdot/flight-delays).
 
-> **You can visit the interactive visualization from [here](https://public.tableau.com/app/profile/mohamed.hassan6400/viz/2015FlightDelaysandCancellationsinUSA-DataAnalysis/TheStory).**
+> **You can visit the interactive visualization on tableau public [here](https://public.tableau.com/app/profile/mohamed.hassan6400/viz/2015FlightDelaysandCancellationsinUSA-DataAnalysis/TheStory).**
 
 ## Using ***Python*** to clean and organizing the 3 csv files to make one big dataset for analysis.
 > I `cleaned` many columns like:
