@@ -1,10 +1,10 @@
-# 2015 Flight Delays and Cancellations in USA - Data Analysis
+# 2015 Flight Delays and Cancellations in USA - Data Analysis.
 
 > You can find the original data [here](https://www.kaggle.com/datasets/usdot/flight-delays).
 
 > **You can visit the interactive visualization from [here](https://public.tableau.com/app/profile/mohamed.hassan6400/viz/2015FlightDelaysandCancellationsinUSA-DataAnalysis/TheStory).**
 
-## Using _Python_ to clean and organizing the 3 csv files to make one big dataset for analysis.
+## Using ***Python*** to clean and organizing the 3 csv files to make one big dataset for analysis.
 > I `cleaned` many columns like:
 > * `CANCELLATION_REASON`: As i converted the non readable values like A, B, C to be more readable values like "CANCELLATION_REASON", "Weather", "National Air System" and if there is no cancellation it will be "NO-CANCELLATION".
 > * I Created a new column called `DATE` that compins data from three columns "YEAR", "MONTHE", "DAY"
@@ -17,7 +17,7 @@
 
 ---
 
-## Using _Tableau_to Analyse the dataset.
+## Using ***Tableau*** to Analyse the dataset.
 
 
 > I preferred to use **gradient blue** in most of my visualization as it is the color of the sky and it is compatible with the flights we talk about in this project.
