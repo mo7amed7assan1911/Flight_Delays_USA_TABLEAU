@@ -22,7 +22,7 @@
 
 > I preferred to use **gradient blue** in most of my visualization as it is the color of the sky and it is compatible with the flights we talk about in this project.
 
-## It is consists of 4 slides:
+## It is consists of 5 slides:
 ### Slide 1
 ![image](https://user-images.githubusercontent.com/55090589/186915831-93640008-6a9e-4e80-b7d8-0cfb7e424864.png)
 
